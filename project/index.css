@@ -1,0 +1,79 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/flexslider.min.css";
+
+footer {
+    background-color: #555;
+    color: #fff;
+    padding: 15px;
+}
+body{
+
+}
+.font{
+    color: #444;
+    font: 300%Impact;
+}
+p{
+    color: #222;
+}
+.heading{
+    font: italic 300%Impact;
+    background-color: #ffbe45;
+}
+.login{
+    font:  200%Impact;
+    background-color: #ffbe45;
+}
+.guaranteed{
+    font:  200%Impact;
+    color: #333;
+}
+.pad{
+    padding-bottom: 20%;
+}
+.circle-icon {
+    background: #ffbe45;
+    border-radius: 30%;
+    text-align: center;
+    line-height: 100%;
+    padding: 10%;
+}
+.logo{
+    font: Bold italic 700%Impact;
+    background: #ffbe45;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 200%;
+    padding: 10%;
+
+}
+.btn-default {
+    color: #333333;
+    background-color: #ffbe45;
+    border-color: #333333; /*set the color you want here*/
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+    color: #ffbe45;
+    background-color: #333333;
+    border-color: #ffbe45; /*set the color you want here*/
+}
+.carousel-item{
+
+    width: 800px;
+    height: 450px;
+}
+.white{
+    color:white;
+}
+/*.carousel-inner .item img {
+    position:relative;
+    top:50%;
+    transform: translateY(-50%);
+}*/
+.form-horizontal{
+    margin-bottom: 3%;
+}
+.startbutton{
+    background-color: #ffbe45;
+    width: 100%;
+    height: 10%;
+}
